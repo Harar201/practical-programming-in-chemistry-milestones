@@ -12,8 +12,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/Harar201/ppchem/tree/second |
 | 1    | Create a conda environment                  | https://github.com/Harar201/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/Harar201/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |https://github.com/Harar201/ppchem/pulls
-| 2    | (Optional) Review a Pull Request            | |https://github.com/Harar201/ppchem/pull
+| 1    | (Optional) Make a Pull Request              | https://github.com/Harar201/ppchem/pulls
+| 2    | (Optional) Review a Pull Request            | https://github.com/Harar201/ppchem/pull
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
 
 **More milestones will be added throughout the course.**
